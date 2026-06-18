@@ -4,7 +4,7 @@
   "description": "Small Node.js API package for ITDI204 final practical exam",
   "main": "api.js",
   "scripts": {
-    "start": "node api.js",
+    "start": "npm start",
     "test": "node -c api.js"
   },
   "dependencies": {
