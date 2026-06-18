@@ -2,9 +2,9 @@
 
 ## Student information
 
-**Student name:** *YOUR NAME HERE*
+**Student name:** *Junior Chris KAVICK*
 
-**GitHub repository URL:** *PASTE YOUR REPOSITORY URL HERE*
+**GitHub repository URL:** *https://github.com/ju3100/Final_exam_Junior-Chris-KAVICK.git*
 
 **Render application URL:** *PASTE YOUR RENDER URL HERE*
 
@@ -12,9 +12,9 @@
 
 ## Application information
 
-**Application name:** *Final Exam - YOUR NAME*
+**Application name:** *Final Exam - Junior Chris KAVICK*
 
-**Render project name:** *Final Exam - YOUR NAME*
+**Render project name:** *Final Exam - Junior-Chris-KAVICK*
 
 **Branch used for production deployment:** **main**
 
