@@ -6,7 +6,7 @@
 
 **GitHub repository URL:** *https://github.com/ju3100/Final_exam_Junior-Chris-KAVICK.git*
 
-**Render application URL:** *PASTE YOUR RENDER URL HERE*
+**Render application URL:** *https://final-exam-junior-chris-kavick.onrender.com*
 
 ---
 
@@ -38,18 +38,18 @@
 
 ### Presentation endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/presentation*
+**URL:** *https://final-exam-junior-chris-kavick.onrender.com/presentation*
 
-**Expected result:** *Result of the call*
+**Expected result:** *Final Exam - Production*
 
 ### Correction endpoint
 
-**URL:** *PASTE YOUR RENDER URL HERE/correction*
+**URL:** *https://final-exam-junior-chris-kavick.onrender.com/correction*
 
 **Error after first call:** *Internal Server Error*
 **Correct error:** *change sen to send*
 
-**Expected result after correction:** *Put the result of the call after the correction*
+**Expected result after correction:** *Correction endpoint is working*
 
 ---
 
@@ -58,4 +58,4 @@
 Briefly explain what you corrected and how you moved the correction from staging to production.
 
 **Explanation:**  
-*WRITE YOUR EXPLANATION HERE*
+*i have view the error when try to get correction but is not pick so i go through api code and look for correction api and change the sen to send so it can get my request*
