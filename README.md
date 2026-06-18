@@ -46,7 +46,8 @@
 
 **URL:** *PASTE YOUR RENDER URL HERE/correction*
 
-**Error after first call:** *Put the result of the first call*
+**Error after first call:** *Internal Server Error*
+**Correct error:** *change sen to send*
 
 **Expected result after correction:** *Put the result of the call after the correction*
 
